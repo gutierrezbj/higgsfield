@@ -28,4 +28,4 @@ CHAR / PROPS / LOCATION / SCENES son las mismas carpetas del proyecto en Cinema 
 
 ## Pendiente
 - Hecho (7-11-2026): repo creado y con todo el contenido del Project. Si se cambia un documento en un sitio, se actualiza en el otro.
-- Navegante: arrastrar a `00_Academy` los 5 archivos grandes de Descargas/HF (4 PDF y el zip de la L3). La conexión de Drive desde Claude no sube archivos de más de ~3 MB.
+- Hecho (7-11-2026): los 4 PDF y el zip de la L3 ya están en `00_Academy`. Recordatorio: la conexión de Drive desde Claude no sube archivos de más de ~3 MB; esos los sube Navegante.
