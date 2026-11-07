@@ -15,6 +15,7 @@ Higgsfield/
 ├── 01_Cortos-y-Series/      un subproyecto por corto o serie
 ├── 02_ADS-Clientes/         un subproyecto por <cliente>-<campaña>
 ├── 03_Biblioteca/           personajes, localizaciones y referencias reutilizables
+│   └── skills/              instaladores .zip de las skills (para subirlas a claude.ai)
 └── 99_Plantilla-proyecto/   copiar para cada proyecto nuevo
     ├── CHAR/      hojas de personaje
     ├── PROPS/     vestuario, atrezo, producto
