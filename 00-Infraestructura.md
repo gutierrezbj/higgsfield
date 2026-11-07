@@ -3,7 +3,7 @@
 | Qué | Dónde | Para quién |
 |---|---|---|
 | Método, guías, skills, plantillas de prompts (texto) | Este Project de claude.ai (`academy/`, `Higgsfield ADS/`, `metodo/`, `conector/`) | Los chats de Claude |
-| Lo mismo, versionado | Repo privado GitHub **gutierrezbj/higgsfield** (pendiente de crear) | Claude Code en cualquier máquina (`git clone`) |
+| Lo mismo, versionado | Repo privado GitHub **gutierrezbj/higgsfield** (rama `main`, con CLAUDE.md y las 5 skills enlazadas en `.claude/skills/`) | Claude Code en cualquier máquina: `git clone https://github.com/gutierrezbj/higgsfield.git` |
 | Material pesado: PDF, imágenes, vídeos, recursos de clientes, entregas | Google Drive (5 TB) · carpeta **Higgsfield** | Todo el equipo y todas las máquinas |
 
 ## Google Drive · Higgsfield
@@ -26,5 +26,5 @@ Higgsfield/
 CHAR / PROPS / LOCATION / SCENES son las mismas carpetas del proyecto en Cinema Studio (método de Adil). Los nombres de archivo siguen la regla de Elements: mismo nombre en Claude, en Higgsfield y en Drive (con prefijo de cliente en ADS).
 
 ## Pendiente
-- Navegante: crear el repo privado vacío `gutierrezbj/higgsfield` en GitHub. Después Claude lo conecta y sube el contenido del Project.
+- Hecho (7-11-2026): repo creado y con todo el contenido del Project. Si se cambia un documento en un sitio, se actualiza en el otro.
 - Navegante: arrastrar a `00_Academy` los 5 archivos grandes de Descargas/HF (4 PDF y el zip de la L3). La conexión de Drive desde Claude no sube archivos de más de ~3 MB.
