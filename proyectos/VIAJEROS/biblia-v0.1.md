@@ -1,5 +1,7 @@
 # Biblia v0.1 — propuesta para el preestreno
 
+> **SUSTITUIDA (8-11-2026).** La serie se llama **VIAJEROS** y ya tiene reparto propio de JuanCho (Lucas, Sofía, Aurora, Elías, Kai y Remi; ver `LEEME.md`). Los nombres HUELLAS, Leo, Vera e Inés quedan descartados. Se conserva como histórico; lo que siga valiendo (estructura del preestreno, reglas del salto) se revisará en la **v0.2, pendiente**.
+
 > Copia de la página de Notion "Biblia v0.1 — propuesta para el preestreno" (hija de "Serie educativa — Viajeros de la Historia | Cuaderno Creativo v0.1"), tal como estaba el 7-11-2026. **PENDIENTE: corrección de JuanCho; nada está aprobado.** Si se cambia en Notion, actualizar aquí.
 
 > Propuesta de Claude (Navegante) del 7 de noviembre de 2026, para que JuanCho la corrija. Nada de esto está aprobado. Objetivo: tener las 4 decisiones que faltan para escribir el guion del preestreno (2–3 min), que se publicará como Open Project en Higgsfield para optar al Filmmaker Grant (criterios: idea, gusto, oficio).
