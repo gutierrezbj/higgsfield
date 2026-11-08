@@ -5,7 +5,7 @@ Fuentes:
 - Blog con todos los prompts: https://higgsfield.ai/es/@adilinthewildtempo/blogs/how-to-save-ai-credits-with-higgsfield-claude
 - Prompts y activos: https://higgsfield.ai/s/animalsbreakdown-higgsfieldai-dzKYAp
 
-Resumido el 7-11-2026 para la serie HUELLAS.
+Resumido el 7-11-2026 para la serie VIAJEROS (nombre provisional anterior: HUELLAS).
 
 ## Flujo
 1. **Proyecto en Cinema Studio** con 4 carpetas: CHAR (personajes), PROPS (outfits y objetos), LOCATION (sets) y SCENES (vídeos). Todo es Element con nombre (@bear), y se usan los mismos nombres en Claude y en Higgsfield para que los prompts de Claude funcionen tal cual.
@@ -49,9 +49,9 @@ Instalación según Adil: en Claude, Customize → Skills → + → subir el zip
 8. **AUDIO**: "solo sonido directo de producción", con tiempos exactos de diálogo y SFX. Sin música ni subtítulos.
 9. **HOLD FOR THE FULL TIMELINE**: lo que debe mantenerse en todo el clip (identidad, vestuario, set).
 
-## Aplicación a HUELLAS
-- Proyecto con carpetas CHAR / PROPS / LOCATION / SCENES; Elements con el mismo nombre en Claude y en Higgsfield (@leo, @vera, @kai, @remi, @ines, @bifaz…).
-- Fichas con Seedream 5.0 Pro: cara y cuerpo sobre gris, adaptadas al estilo B (3D cálido).
+## Aplicación a VIAJEROS
+- Proyecto con carpetas CHAR / PROPS / LOCATION / SCENES; Elements con el mismo nombre en Claude y en Higgsfield (@lucas, @sofia, @aurora, @elias, @kai, @remi…; nombres definitivos pendientes al crear los Elements).
+- Fichas de producción con Seedream 5.0 Pro (cara y cuerpo sobre gris, una sola cara), sacadas de las fichas de presentación ya hechas, en estilo B (3D cálido).
 - Tarjeta de paleta única de la serie, adjunta a toda petición de locación.
-- Kai y Remi no hablan: su ACTING TASK es puro ojos y cuerpo, y el bloque PHYSICS es clave (un perro y un gato reales).
+- Si Kai y Remi no hablan (pendiente de decidir en la biblia v0.2): su ACTING TASK es puro ojos y cuerpo, y el bloque PHYSICS es clave (un perro y un gato reales).
 - Todo en borrador de 480p hasta aprobar la actuación; el final, a 1080p.

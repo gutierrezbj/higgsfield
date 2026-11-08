@@ -24,7 +24,7 @@ Higgsfield ADS/              anuncios para clientes (método "Animals" de Adil)
   skills/                    acting skill, Seedance prompt (Blockbuster)
   SOP-01-Campana-de-producto-IA.md   SOP de campaña de producto
 metodo/                      métodos de Adil (cortometrajes, ahorro de créditos) y MAPA-Higgsfield
-proyectos/                   un subproyecto por corto o serie (ULTRAFAST, HUELLAS, Persecucion-Caracas)
+proyectos/                   un subproyecto por corto o serie (ULTRAFAST, VIAJEROS, Persecucion-Caracas)
 conector/                    flujos de trabajo del conector de Higgsfield en Claude
 .claude/skills/              enlaces a las 5 skills para que Claude Code las cargue solas
 ```
