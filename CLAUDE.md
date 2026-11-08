@@ -18,7 +18,7 @@ Centro de producción de imagen y vídeo con IA de JRGB (Navegante). Este repo e
 Nota: CINEIMAGE pone "Seedream 4.5 Edit" para editar; en el curso se edita con Seedream 5.0 Pro. Se sigue el curso.
 
 ## Generar desde aquí
-Claude Code no tiene el conector de Higgsfield. Para generar desde terminal hace falta la herramienta oficial (ver `conector/Workflows-conector-Higgsfield.md`): `npm i -g @higgsfield/cli`, `higgsfield auth login` (lo hace Navegante en el navegador) y `npx skills add higgsfield-ai/skills`. No instalar sin que Navegante lo pida.
+En Claude Desktop (pestaña Code) el conector de Higgsfield ya viene: se genera sin instalar nada. Claude Code en terminal (otra máquina) no lo tiene; ahí hace falta la herramienta oficial (ver `conector/Workflows-conector-Higgsfield.md`): `npm i -g @higgsfield/cli`, `higgsfield auth login` (lo hace Navegante en el navegador) y `npx skills add higgsfield-ai/skills`. No instalar sin que Navegante lo pida.
 
 ## Archivos pesados
 PDF, imágenes y vídeos van a Google Drive (carpeta Higgsfield), no al repo. Estructura en `00-Infraestructura.md`.
