@@ -22,7 +22,7 @@ En los chats de este Project, Claude tiene el conector de Higgsfield activo: gen
 | reel-effects, color-grade, manga-engine, shorts-studio | Efectos de reel, etalonaje, manga, shorts (por comando) |
 
 ## CLI + skills de Higgsfield (`@higgsfield/cli` y `higgsfield-ai/skills`)
-- Es para agentes de terminal (**Claude Code** en el Mac, Cursor, Codex), que no tienen el conector. Repositorio revisado: versión 0.14, 9 skills (generate, brandkit, product-photoshoot, soul-id, youtube-thumbnail, marketplace-cards, faceless-video, video-explainer, websites).
+- Es para agentes de terminal (**Claude Code** en terminal, Cursor, Codex), que no tienen el conector. Claude Desktop (pestaña Code) sí lo trae: ahí no hace falta instalar nada. Repositorio revisado: versión 0.14, 9 skills (generate, brandkit, product-photoshoot, soul-id, youtube-thumbnail, marketplace-cards, faceless-video, video-explainer, websites).
 - En este chat **no hace falta**: el conector cubre lo mismo.
 - Se instala solo si vamos a producir desde Claude Code (archivos en disco, tandas grandes). Órdenes: `npm i -g @higgsfield/cli` → `higgsfield auth login` (abre el navegador, lo hace Navegante) → `npx skills add higgsfield-ai/skills`.
 - Regla acordada: cuando algo necesite ejecutarse en Claude Code, Claude avisa a Navegante con las órdenes exactas.
